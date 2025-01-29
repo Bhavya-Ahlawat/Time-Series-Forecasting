@@ -24,5 +24,3 @@ This project utilizes the ARIMA model for time series forecasting. The model is 
 ## Evaluation
 The model's performance is evaluated using the Root Mean Squared Error (RMSE) metric.
 
-## License
-This project is licensed under the MIT License.
